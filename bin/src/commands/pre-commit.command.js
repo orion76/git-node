@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.pre_commit = void 0;
@@ -55,7 +54,7 @@ function pre_commit() {
             }
         }
         if (process.exitCode !== 1) {
-            console.log(color.greenBright('[success]'), ' Bad words not found');
+            console.log(color.greenBright('[success]'), ' Bad words not found.');
         }
     });
 }

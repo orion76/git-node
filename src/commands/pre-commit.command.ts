@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+
 import {exec} from 'child_process';
 import {createReadStream} from 'fs';
 import {createInterface} from 'readline';
