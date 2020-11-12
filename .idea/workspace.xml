@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7edd0d9b-a02d-4d27-a5be-1e92177d94d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON file" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k6n3chE02lfwQao0iDlyf4suxn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.44" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hooks" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/commands" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hooks" />
+      <recent name="$PROJECT_DIR$/.git/hooks" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="bin/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="TypeScript.Before.Run" enabled="true" FAIL_ON_ERROR="true" CONFIG_PATH="$PROJECT_DIR$/tsconfig.json" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7edd0d9b-a02d-4d27-a5be-1e92177d94d3" name="Default Changelist" comment="" />
+      <created>1605029711530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605029711530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605035056413">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="141" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.743@0.0.1366.743" timestamp="1605035056413" />
+    <state x="427" y="177" width="512" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605147987909">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="427" y="177" width="512" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1605147987909" />
+    <state x="466" y="129" width="434" height="488" key="FileChooserDialogImpl" timestamp="1605033165564">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="466" y="129" width="434" height="488" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1605033165564" />
+    <state width="944" height="164" key="GridCell.Tab.0.bottom" timestamp="1605151453281">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="944" height="164" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1605151453281" />
+    <state width="944" height="164" key="GridCell.Tab.0.center" timestamp="1605151453281">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="944" height="164" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1605151453281" />
+    <state width="944" height="164" key="GridCell.Tab.0.left" timestamp="1605151453279">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="944" height="164" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1605151453279" />
+    <state width="944" height="164" key="GridCell.Tab.0.right" timestamp="1605151453281">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="944" height="164" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1605151453281" />
+    <state x="187" y="6" width="992" height="734" key="SettingsEditor" timestamp="1605123229162">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="187" y="6" width="992" height="734" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605123229162" />
+    <state x="95" y="95" width="1176" height="553" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605036536858">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="95" y="95" width="1176" height="553" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.743@0.0.1366.743" timestamp="1605036536858" />
+    <state x="389" y="115" width="587" height="512" key="find.popup" timestamp="1605031146938">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="389" y="115" width="587" height="512" key="find.popup/0.0.1366.743@0.0.1366.743" timestamp="1605031146938" />
+  </component>
+</project>
